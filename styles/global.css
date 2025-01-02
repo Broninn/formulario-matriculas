@@ -23,16 +23,10 @@
 
     --semantic-error: #DC2626;
 
-    --orange: #F9A474;
-    --yellow: #FEDF6F;
-    --green: #C7D78D;
-    --blue: #B8CEDC;
-    --violet: #C3B2E7;
-    --pink: #F682A5;
-
-    --font-family: "Roboto Condensed", serif;
-    --text-lg: 700 32px/120% var(--font-family);
-    --text-md: 700 24px/120% var(--font-family);
-    --text-nl: 700 20px/120% var(--font-family);
-    --text-sm: 700 16px/120% var(--font-family);
+    --font-family: "Poppins", sans-serif;
+    --text: 400 1rem/1.5 var(--font-family);
+    --text-lg: 700 2rem/120% var(--font-family);
+    --text-md: 700 1.5rem/120% var(--font-family);
+    --text-nl: 700 1.25rem/120% var(--font-family);
+    --text-sm: 400 0.875rem/1.4 var(--font-family);
 }
